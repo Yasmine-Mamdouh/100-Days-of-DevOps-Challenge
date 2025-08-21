@@ -10,7 +10,7 @@ This Bash script automates SSH key setup and passwordless `sudo` configuration f
 5. Copies the key and sets up passwordless `sudo` for the selected servers.
 
 ## Files
-- `ssh-setup.sh` → Main script
+- `setup-ssh-sudo.sh` → Main script
 - `servers-database.txt` → List of servers (username, host, password)
 
 ## Clone the repository
