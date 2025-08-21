@@ -1,9 +1,9 @@
-# SSH Setup Script
+# SSH-Sudo Setup Script
 
 This Bash script automates SSH key setup and passwordless `sudo` configuration for multiple servers.
 
 ## How it works
-1. Reads server info from `servers.txt` (Purpose, username@hostname, password).
+1. Reads server info from `servers-database.txt` (Purpose, username@hostname, password).
 2. Displays a menu with available servers (based on Purpose).
 3. Lets you pick one or more servers to configure.
 4. Generates an SSH key if not already present.
@@ -21,7 +21,7 @@ cd 100-Days-of-DevOps-Challenge
 
 ## Usage
 ```bash
-bash ssh-setup.sh
+bash setup-ssh-sudo.sh
 ```
 Select the servers from the menu and enter their passwords when prompted.
 
