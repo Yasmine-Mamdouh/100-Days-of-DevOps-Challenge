@@ -15,7 +15,7 @@ This Bash script automates SSH key setup and passwordless `sudo` configuration f
 
 ## Clone the repository
 ```bash
-git clone [https://github.com/<your-username>/<your-repo>.git](https://github.com/Yasmine-Mamdouh/100-Days-of-DevOps-Challenge.git)
+git clone https://github.com/Yasmine-Mamdouh/100-Days-of-DevOps-Challenge.git
 cd 100-Days-of-DevOps-Challenge
 ```
 
