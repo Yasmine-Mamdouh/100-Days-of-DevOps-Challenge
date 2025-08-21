@@ -1,0 +1,9 @@
+App1		tony@stapp01		Ir0nM@n
+App2		steve@stapp02		Am3ric@
+App3		banner@stapp03		BigGr33n
+LBR		loki@stlb01		Mischi3f
+Backup		clint@stbkp01		H@wk3y3
+Database	peter@stdb01		Sp!dy
+Storage		natasha@ststor01	Bl@kW
+Mail		groot@stmail01		Gr00T123
+Jenkins		jenkins@jenkins		j@rv!s
